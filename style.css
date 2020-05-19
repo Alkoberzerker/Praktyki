@@ -1,0 +1,47 @@
+body{
+    margin:0;
+}
+button{
+    border: none;
+    background-color: #393a46;
+    color:#ffffff;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+header{
+    font-family: Calibri;
+    height: px; 
+	color: #bcbed9;
+    padding: 20px;
+    vertical-align: middle;
+    background-color: #393a46;
+}
+section{
+    overflow: scroll;
+    width: 15%;
+    font-family: Calibri;
+    color: #bcbed9;
+    height: 100%; 
+	float: left;
+    background-color: #2b2c31; 
+}
+text{
+    overflow: scroll;
+    width: 85%;
+    color: #bcbed9;
+    font-family: Calibri;
+    height: 100%; 
+	float: left;
+    background-color: #242430;
+}
+footer{
+    height: 2%; 
+    font-family: Calibri;
+	color: 393a46;
+    text-align: center;
+    background-color: #301B5E;
+    clear: both;
+   
+}
